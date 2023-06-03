@@ -6,10 +6,10 @@ Este é o README para o projeto Combo+, uma oferta especial que permite aos usu�
 | -------------  | --- |
 | :sparkles: Nome        | **Combo+**
 | :label: Tecnologias | HTML, CSS
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://carloseduardolemos.github.io/alura-Plus/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://raw.githubusercontent.com/SeuUsuario/projeto-combo-plus/main/imagens/combo-plus.png#vitrinedev)
+![](https://raw.githubusercontent.com/CarlosEduardoLemos/alura-Plus/main/imagens/Captura%20de%20tela%202023-06-03%20145413.png#vitrinedev)
 
 ## Detalhes do projeto
 
@@ -21,7 +21,7 @@ Durante a navegação no site do Combo+, você poderá explorar as informações
 
 Os próximos passos para o projeto incluem a expansão do catálogo de cursos e a adição de recursos adicionais, como a criação de uma área de comunidade para os assinantes do Combo+, onde eles podem interagir, trocar experiências e compartilhar conhecimentos.
 
-Não perca a oportunidade de aprimorar suas habilidades e expandir seus horizontes com o Combo+! Aproveite a oferta especial [aqui](https://url-deploy.com.br) e tenha acesso ilimitado ao Alura+ e ao Alura Língua por um preço único.
+Não perca a oportunidade de aprimorar suas habilidades e expandir seus horizontes com o Combo+! Aproveite a oferta especial [aqui](https://carloseduardolemos.github.io/alura-Plus/) e tenha acesso ilimitado ao Alura+ e ao Alura Língua por um preço único.
 
 ## Contribuição
 
