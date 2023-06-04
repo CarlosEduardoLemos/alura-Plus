@@ -1,6 +1,6 @@
 # Combo+ - Aproveite Alura+ e Alura Língua por um preço único
 
-Este é o README para o projeto Combo+, uma oferta especial que permite aos usuários aproveitarem os benefícios do Alura+ e do Alura Língua em um único pacote, por um preço especial.
+O projeto Combo+, é uma oferta especial que permite aos usuários aproveitarem os benefícios do Alura+ e do Alura Língua em um único pacote, por um preço especial.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
